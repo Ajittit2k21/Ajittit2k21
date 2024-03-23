@@ -12,8 +12,7 @@
 
 - 🤝 I’m looking for help with [Netflix web Application](https://github.com/Ajittit2k21/Netflix--WepApplication)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ajittit2k21/portflio/app(https://github.com/Ajittit2k21/portflio/app)
-
+- 👨‍💻 👨‍💻 All of my projects are available at [https://github.com/Ajittit2k21](https://github.com/Ajittit2k21)
 - 💬 Ask me about **C||C++||CORE JAVA||DSA||HTML||CSS||JAVASCRIPT**
 
 - 📫 How to reach me **ajitttit2k21@gmail.com**
