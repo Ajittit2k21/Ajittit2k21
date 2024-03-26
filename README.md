@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajit kumar</h1>
  <div align="center"> <img src="https://raw.githubusercontent.com/Ajittit2k21/Ajittit2k21/main/fullstack.png"> </div>
-<h3 align="center">A passionate Full Stack developer from India Associate with the <b>JAVA</b> program <br> https://www.youtube.com/@AjitKumar-ep2pq </h3>
+<h3 align="center">A passionate Full Stack developer from India Associate with the <p><b>JAVA</b></p> program <br> https://www.youtube.com/@AjitKumar-ep2pq </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajittit2k21&label=Profile%20views&color=0e75b6&style=flat" alt="Ajittit2k21" /> </p>
 
