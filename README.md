@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Hospital management](https://github.com/Ajittit2k21/HTML-CSS-WITH-jAVA-SCRIPT)
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development with java**
 
 - 👯 I’m looking to collaborate on [Portfolio app](https://github.com/Ajittit2k21/Portfolio-Website)
 
