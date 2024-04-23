@@ -36,7 +36,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ajittit2k21">
+    <img src="https://komarev.com/ghpvc/?username=https://github.com/Ajittit2k21">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
