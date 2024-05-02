@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ajitttit2k21@gmail.com**
 
-- ⚡ Fun fact **I think I'm innocent 😀**
+- ⚡ Fun fact **I think I'm innocent 😀***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +51,7 @@
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-## ❤ Views and Followers
+## ❤ Views and Followers ❤
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ajittit2k21">
 </a>
