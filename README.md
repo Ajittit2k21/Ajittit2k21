@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajittit2k21&show_icons=true&locale=en" alt="ajittit2k21" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=ajittit2k21&](https://github.com/Ajittit2k21)" alt="ajittit2k21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajittit2k21&" alt="ajittit2k21" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ajittit2k21&limit=5&theme=flat&combine_all_yearly_contributions=true)
