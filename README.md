@@ -1,4 +1,4 @@
-<h1 align="center">HI ❣<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">❣I'm Er Ajit kumar</h1>
+<h1 align="center">HELLO ❣<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">❣I'm Er Ajit kumar</h1>
  <div align="center"> <img src="https://raw.githubusercontent.com/Ajittit2k21/Ajittit2k21/main/fullstack.png"> </div>
 <h3 align="center">A passionate Full Stack developer from India Associate with the <strong>JAVA</strong> program <br> https://www.youtube.com/@AjitKumar-ep2pq </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
